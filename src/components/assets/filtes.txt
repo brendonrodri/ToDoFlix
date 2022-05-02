@@ -1,0 +1,3 @@
+Criar umas arrays e puxar pelo map 
+mudar o código do filter e adicionar o estado 
+renderizar via map 

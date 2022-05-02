@@ -1,0 +1,88 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Body {
+  background: #000;
+}
+.link {
+  text-decoration: none;
+  color: #fff;
+}
+.search {
+  background-image: url("./components/assets/Search.png");
+  bacgrkound-color: #fff;
+  background-repeat: no-repeat;
+}
+.inputName {
+  width: 25vw;
+  height: 5vh;
+  background: #2c2c2c 0% 0% no-repeat padding-box;
+  border-radius: 4px;
+  opacity: 1;
+  border: none;
+}
+.Radio {
+  font-weight: normal;
+}
+.Mask {
+  width: 16vw;
+  border: 1px solid #fff;
+  margin-top: 10px;
+}
+.inputArea1 {
+  width: 70%;
+}
+.inputArea2 {
+  width: 30%;
+}
+.modalFlex {
+  display: flex;
+  justify-content: space-around;
+  margin: 50px;
+}
+.modalTitle {
+  width: 100%;
+  margin-top: 20px;
+  margin-left: 52px;
+}
+.imgButton {
+  width: 10vw;
+  height: 5vh;
+  border: none;
+  border-radius: 2px;
+  margin-top: 5px;
+}
+.buttonBox {
+  display: flex;
+  justify-content: center;
+}
+.cancelButton {
+  width: 10vw;
+  height: 5vh;
+  border: none;
+  border-radius: 5px;
+  margin-top: 5px;
+  background-color: #000;
+  color: #fff;
+  border: 1px solid #fff;
+  margin-right: 10px;
+}
+.cancelButton:hover {
+  background: #fff;
+  color: #000;
+}
+.saveButton {
+  width: 10vw;
+  height: 5vh;
+  border: none;
+  border-radius: 5px;
+  margin-top: 5px;
+  background-color: #e71b27;
+  color: #fff;
+  margin-left: 10px;
+}
+.saveButton:hover {
+  background: #fff;
+  color: #000;
+}
